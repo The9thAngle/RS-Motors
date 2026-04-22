@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rs-motors.vercel.app/sitemap.xml
